@@ -1,4 +1,3 @@
-WhatsApp Clone
 WhatsApp Clone is a real-time messaging application that replicates core WhatsApp functionalities, including one-on-one and group chat, media sharing, and online status updates.
 
 Features
